@@ -1,0 +1,2 @@
+C:\Users\rikar\source\repos\HttpGetDemo\DBLibary\obj\ARM64\Debug\DBLibary.csproj.AssemblyReference.cache
+C:\Users\rikar\source\repos\HttpGetDemo\DBLibary\obj\ARM64\Debug\DBLibary.csproj.CoreCompileInputs.cache

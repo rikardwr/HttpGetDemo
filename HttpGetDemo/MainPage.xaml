@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="HttpGetDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HttpGetDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!--<Grid>
+        <StackPanel>
+            <TextBox Name="Input_Box"></TextBox>
+            <Button Click="AddData">Add</Button>
+            <ListView Name="Output">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Content="Button" Click="Button_Click_1"/>
+        </StackPanel>
+    </Grid>-->
+
+    <Grid>
+        <Button Content="GET" Margin="30,10,0,0" VerticalAlignment="Top" Click="Get_Event"/>
+        <Button Content="POST" Margin="112,10,0,0" VerticalAlignment="Top" Click="Post_event"/>
+        <Button Content="GET 1" Margin="30,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.048,0.562" Click="Button_Click_2"/>
+        <Button Content="POST 1" Margin="112,69,0,0" VerticalAlignment="Top" Click="Button_Click_3"/>
+
+    </Grid>
+
+</Page>

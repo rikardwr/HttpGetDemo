@@ -1,0 +1,42 @@
+﻿/debug:full
+/nowarn:0436;0618;1668;1685;1701;1702
+/debug+
+/nostdlib+
+/optimize-
+/out:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop.dll"
+/pdb:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop.pdb"
+/platform:anycpu
+/warnaserror+
+/unsafe
+/nologo
+/target:library
+/define:MCG_PRE_BUILD
+/define:DEBUG
+/define:WIN64
+/define:ARM64
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Private.CoreLib.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Interop.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Private.Uri.iltoc"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Reflection.DispatchProxy.dll"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Reflection.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.iltoc"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Runtime.InteropServices.dll"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Numerics.Vectors.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Threading.iltoc"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Diagnostics.Debug.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Runtime.Extensions.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Collections.iltoc"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.ObjectModel.iltoc"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Runtime.WindowsRuntime.dll"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll"
+/r:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\tools\SharedLibrary\chk\AnalysisILToc\System.Private.SharedLibrary.Interop.Generated.iltoc"
+/r:"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\System.Private.HttpGetDemo.Generated.dll"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\Adapters.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\AssemblyInfo.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\Data.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\Helpers.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\ImplTypes.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\PInvoke.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\SafeTypes.g.cs"
+"C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\obj\ARM64\Debug\ilc\intermediate\HttpGetDemo.McgInterop\SharedStubs.g.cs"

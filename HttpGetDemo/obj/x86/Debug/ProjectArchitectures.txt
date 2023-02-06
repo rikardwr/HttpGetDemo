@@ -1,0 +1,2 @@
+C:\Users\rikar\source\repos\HttpGetDemo\DBLibary\DBLibary.csproj;x86
+C:\Users\rikar\source\repos\HttpGetDemo\HttpGetDemo\HttpGetDemo.csproj;x86

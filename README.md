@@ -26,7 +26,7 @@ Universal Windows Platform (UWP) that is apart of .NET framework and it is used 
 4. Visual Studio 2019/2022
 5. Visual Studio UWP Tool, to build and compile the application
 
-<h4>It is also possible to test application without HoloLens 2 by connecting application to a virtual emulator (Hyper-V), this one must have a Windows 10 version that supports Hyper-V function. </h4>
+<h4>It is also possible to test application without HoloLens 2 by connecting application to a virtual emulator (Hyper-V), requires Windows 10 version that supports Hyper-V function. </h4>
 
 
 <!-- LICENSE -->
